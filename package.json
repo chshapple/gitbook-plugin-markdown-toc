@@ -1,0 +1,14 @@
+{
+  "name": "gitbook-plugin-markdown-toc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "chshapple",
+  "license": "ISC",
+  "engines": {
+    "gitbook": ">2.0.0"
+  },
+  "dependencies": {
+    "markdown-toc": "^1.1.0"
+  }
+}
